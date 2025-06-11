@@ -1,7 +1,9 @@
-Bienvenido a mi perfil
+Hey
 
 ## 👋 Sobre mi
 I'm a tech enthusiast deeply passionate about the world of Artificial Intelligence and Machine Learning. I'm always exploring new concepts and building exciting projects in this domain.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zumberr&label=Profile%20views&color=0e75b6&style=flat" alt="zumberr" /> </p>
+
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=zumberr&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="zumberr" /></a> </p>
 
 ## 🚀 Mis habilidades
