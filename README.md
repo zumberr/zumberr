@@ -9,6 +9,7 @@ I'm a tech enthusiast deeply passionate about the world of Artificial Intelligen
 *   🧠 AI: 100%
 *   🐍 Python: 40%
 *   ☕ Java: 40%
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumberr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zumberr" /></p>
 
 ### 🎧 GitHub Stats:
 <p align="center">
