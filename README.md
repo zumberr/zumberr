@@ -16,7 +16,7 @@ I'm a tech enthusiast deeply passionate about the world of Artificial Intelligen
 ## Mis Estadisticas
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zumberr&layout=compact&theme=radical">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=@zumberr&show_icons=true&theme=dracula&locale=es&layout=compact" alt="zumberr" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumberr&show_icons=true&theme=dracula&locale=es&layout=compact" alt="zumberr" /></p>
 
 ### 🎧 GitHub Stats:
 
