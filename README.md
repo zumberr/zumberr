@@ -14,6 +14,7 @@ I'm a tech enthusiast deeply passionate about the world of Artificial Intelligen
 *   🚀 PHP: 60%
 
 ## Mis Estadisticas
+
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zumberr&layout=compact&theme=radical">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumberr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zumberr" /></p>
 
