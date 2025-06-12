@@ -6,11 +6,12 @@ I'm a tech enthusiast deeply passionate about the world of Artificial Intelligen
 
 <p align="center"> <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=zumberr&theme=dracula&no-frame=true&column=3&margin-w=15&margin-h=15" alt="zumberr" /></a> </p>
 
-## 🚀 Mis habilidades
+##  Mis habilidades
 *   💻 JavaScript: 100%
 *   🧠 AI: 100%
 *   🐍 Python: 40%
 *   ☕ Java: 40%
+*   🚀 PHP: 60%
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumberr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zumberr" /></p>
 
 ### 🎧 GitHub Stats:
