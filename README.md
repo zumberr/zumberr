@@ -18,6 +18,7 @@ I'm a tech enthusiast deeply passionate about the world of Artificial Intelligen
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zumberr&show_icons=true&theme=dracula&locale=en&layout=compact" alt="zumberr" /></p>
 
 ### 🎧 GitHub Stats:
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zumberr&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=zumberr&theme=radical&hide_border=true" width="48%" />
