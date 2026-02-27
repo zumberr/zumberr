@@ -30,7 +30,6 @@
 ```js
 const zumber = {
     location: "Colombia 🇨🇴",
-    company: "sanadatech",
     role: "Full Stack Developer & Bot Architect",
     languages: ["JavaScript", "Python", "PHP", "Java", "TypeScript"],
     interests: ["AI/ML", "Discord Bots", "Cybersecurity", "PC Gaming", "Programming"],
