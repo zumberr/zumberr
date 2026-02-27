@@ -11,8 +11,7 @@
 <br/>
 
 <!-- PROFILE BADGES -->
-<img src="https://komarev.com/ghpvc/?username=zumberr&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
-&nbsp;
+
 <a href="https://github.com/zumberr?tab=followers">
   <img src="https://img.shields.io/github/followers/zumberr?label=Followers&style=for-the-badge&color=238636&labelColor=0d1117" alt="Followers"/>
 </a>
