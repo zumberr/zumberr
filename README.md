@@ -33,8 +33,8 @@ const zumber = {
     company: "sanadatech",
     role: "Full Stack Developer & Bot Architect",
     languages: ["JavaScript", "Python", "PHP", "Java", "TypeScript"],
-    interests: ["AI/ML", "Discord Bots", "Cybersecurity", "PC Gaming"],
-    currentFocus: "Scaling Discord bots to 200K+ servers",
+    interests: ["AI/ML", "Discord Bots", "Cybersecurity", "PC Gaming", "Programming"],
+    currentFocus: "Scaling mmy self",
     funFact: "I dream in async/await 🦷"
 };
 ```
