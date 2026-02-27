@@ -34,7 +34,7 @@ const zumber = {
     role: "Full Stack Developer & Bot Architect",
     languages: ["JavaScript", "Python", "PHP", "Java", "TypeScript"],
     interests: ["AI/ML", "Discord Bots", "Cybersecurity", "PC Gaming", "Programming"],
-    currentFocus: "Scaling mmy self",
+    currentFocus: "Scaling my self",
     funFact: "I dream in async/await 🦷"
 };
 ```
