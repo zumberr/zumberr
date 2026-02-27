@@ -46,7 +46,7 @@ const zumber = {
 - 🔧 Creator of [**Nekotina-clone**](https://github.com/zumberr/Nekotina-clone) — Social Discord bot
 - 🎮 Creator of [**ClawCraft**](https://github.com/zumberr/clawcraft) — Autonomous Minecraft AI agent
 - ⚔️ Built [**AI Debate Arena**](https://github.com/zumberr/ai-debate-arena) — Multi-model debate platform
-- 🔒 Interested in **Cybersecurity** & anti-raid systems
+- 🔒 Interested in **programming** & AI systems
 - 🎮 Gamer: Soulsborne, tactical shooters & survival games
 - 🌐 Portfolio: [steve-nu-ten.vercel.app](https://steve-nu-ten.vercel.app/)
 
