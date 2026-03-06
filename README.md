@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Zumber&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Bot%20Architect&descSize=18&descColor=c9d1d9&descAlignY=58" alt="Zumber GitHub header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Zumber&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Web%20Architect&descSize=18&descColor=c9d1d9&descAlignY=58" alt="Zumber GitHub header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+JavaScript+Developer;AI+%26+Machine+Learning+Enthusiast;Building+bots%2C+agents+and+real+products;Always+learning%2C+always+shipping)](https://git.io/typing-svg)
 
