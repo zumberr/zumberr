@@ -182,14 +182,11 @@ const zumber = {
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 My own AI model
 
-<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=zumberr&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-
-</div>
-
+<h3 align="center">🧠Vesna-R1-1.5B-Reasoning</h3>
+ <a href="https://github.com/zumberr/AnimePlataform](https://huggingface.co/zumberisclown/Vesna-R1-1.5B-Reasoning">
 ---
 
 ## 🌐 Connect with Me
