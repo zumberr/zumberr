@@ -145,15 +145,15 @@ const zumber = {
 </td>
 <td width="50%">
 
-<h3 align="center">🧠 Machine Learning</h3>
+<h3 align="center">🧠 Anime streaming and manga plataform</h3>
 <p align="center">
-  <a href="https://github.com/zumberr/machine-learning">
+  <a href="https://github.com/zumberr/AnimePlataform">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-58a6ff?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-<p align="center">Collection of autonomous learning projects with Python. Exploring ML concepts through hands-on experimentation.</p>
+<p align="center">Anime streaming plataform sub in spanish .</p>
 <p align="center">
-  <img src="https://img.shields.io/github/stars/zumberr/machine-learning?style=flat-square&color=f0e68c"/>
+  <img src="https://img.shields.io/github/stars/zumberr/AnimePlataform?style=flat-square&color=f0e68c"/>
 </p>
 
 </td>
